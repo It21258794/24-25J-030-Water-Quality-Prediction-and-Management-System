@@ -1,0 +1,28 @@
+# Java build artifacts
+target/
+*.class
+
+# IDE-specific files
+.idea/
+*.iml
+*.class
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Maven specific files
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environmental variables
+.env
